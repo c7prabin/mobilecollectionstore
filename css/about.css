@@ -1,0 +1,210 @@
+.search
+{
+    padding-left: 400px;
+    padding-top: 30px;
+
+}
+/*navigation bar*/
+ .navbar-default 
+ {
+    background-color: #94CB32;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.navbar-default .nav li a 
+{
+    color: #fff;
+}
+/*body part first 4 grid*/
+
+.allow
+{
+    padding: 40px 0;
+    background: #fff;
+    overflow: hidden;
+}
+.allow .titletop
+{
+    font-size: 30px;
+    
+}
+
+.allow .titlebottom
+{
+    font-size: 15px;
+}
+.allow .text
+{
+    color: #3f0606;
+    margin-bottom: 40px;
+}
+
+.allow .highlight
+{
+    font-weight: bold;
+    font-family: segoe print;
+    transform: rotate(-5deg);
+}
+.details 
+{
+list-style: none;
+ font-size: 15px;
+ padding-bottom: 30px;
+}
+.details a
+{
+color: black;
+}
+/*body part second grid 4*/
+.mission h2
+{
+    
+    padding-top: 60px;
+}
+.mission h3
+{
+    color: green;
+}
+/*body part third grid 4*/
+.testimonials a
+{
+    font-size: 20px;
+    padding-left: 40px;
+    padding-bottom: 100px;
+    color: black;
+}
+/*second body part first grid 8*/
+.information
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+/*second body part second grid 4*/
+.link
+{
+    list-style: none;
+}
+.link a
+{
+    color:silver;
+}
+/*footer*/
+
+.footer1 {
+    padding-top: 40px;
+    padding-right: 0;
+    padding-bottom: 20px;
+    padding-left: 0;
+}
+.title-widget {
+    color: #898989;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1;
+    position: relative;
+    text-transform: uppercase;
+    font-family: 'Fjalla One', sans-serif;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 25px;
+    margin-left: 0;
+    padding-left: 28px;
+}
+
+.title-widget::before {
+    background-color: #ea5644;
+    content: "";
+    height: 22px;
+    left: 0px;
+    position: absolute;
+    top: -2px;
+    width: 5px;
+}
+.widget_nav_menu ul {
+    list-style: outside none none;
+    padding-left: 0;
+}
+
+.widget_archive ul li {
+    background-color: rgba(0, 0, 0, 0.3);
+    content: "";
+    height: 3px;
+    left: 0;
+    position: absolute;
+    top: 7px;
+    width: 3px;
+}
+
+
+.widget_nav_menu ul li 
+{
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 20px;
+    position: relative;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    margin-bottom: 7px;
+    padding-bottom: 7px;
+    width:95%;
+}
+
+
+
+.title-median 
+{
+    color: #636363;
+    font-size: 20px;
+    line-height: 20px;
+    margin: 0 0 15px;
+    text-transform: uppercase;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.footerp p {font-family: 'Gudea', sans-serif; }
+ 
+ .social-fb:hover 
+ {
+color: #3B5998;
+ }
+.social-tw:hover 
+{
+color: #4099FF;
+ }
+.social-gp:hover
+ {
+color: #d34836;
+ }
+ .social-em:hover
+  {
+ color: #f39c12;
+    }
+.nomargin 
+{
+ margin:0px; padding:0px;
+}
+.footer-bottom {
+    background-color: #15224f;
+    min-height: 30px;
+    width: 100%;
+}
+.copyright {
+    color: #fff;
+    line-height: 30px;
+    min-height: 30px;
+    padding: 7px 0;
+}
+.design {
+    color: #fff;
+    line-height: 30px;
+    min-height: 30px;
+    padding: 7px 0;
+    text-align: right;
+}
+.design a {
+    color: #fff;
+}
